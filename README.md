@@ -1,0 +1,1 @@
+In this project a chatbot is been madeusing NLP toolkit and Tensorflow libraries in python.NLTK is used to process text data and tensorflow is used to build a neural process network for generating responses.Intents.json file is used to define the different intent that the chabot is trained to recognise and respond to.
